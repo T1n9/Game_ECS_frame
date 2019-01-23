@@ -89,7 +89,7 @@ void Game::update()
 
 	if (Utils::collision(new_player.get_component<CollisionComponent>().collider,
 		enemy.get_component<CollisionComponent>().collider))
-		cout << "ouch" << endl;
+		cout << "ouaaa" << endl;
 
 	++cnt;
 	//std::cout << "x:";
