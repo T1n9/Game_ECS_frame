@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\ting\desktop\game\game\main.cpp(7): error C4716: “SDL_main”: 必须返回一个值
