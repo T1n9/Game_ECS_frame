@@ -1,7 +1,2 @@
-﻿  DrawObject.cpp
-  Game.cpp
-  main.cpp
-  Utils.cpp
-  Vector2d.cpp
-  正在生成代码...
+﻿  Game.cpp
   game.vcxproj -> C:\Users\ting\Desktop\game\Game_ECS_frame\x64\Debug\game.exe
